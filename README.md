@@ -15,7 +15,6 @@
 
 ## 🛠️ Tech Stack
 
-```yaml
 Languages: 
   - Python 🐍
   - Java ☕
@@ -83,4 +82,4 @@ Simple and efficient note-taking Android app.
 I don’t just write code…
 I build systems that think. 🤖🔥
 
-<p align="center"> ⭐ If you like what I build, consider following me! </p> ```
+<p align="center"> ⭐ If you like what I build, consider following me! </p> ```r following me! </p> ```
