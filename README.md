@@ -1,1 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1500&color=4FC3F7&background=00000000&center=true&vCenter=true&width=700&lines=Hey+there%21+I'm+Alwin+🚀;Full+Stack+Dev+%26+CS+Student;Architect+of+Nova+API+%26+SecureScope;Building+Local-First+%26+Privacy-Driven+Software;Training+LLMs+%26+Securing+the+Web;127.0.0.1+is+the+only+cloud+I+trust.)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=CS+Student+%26+Developer;Building+Local-First+Software;Exploring+AI+%26+Cybersecurity;Creator+of+Nova+API+%26+SecureScope" alt="Typing SVG" />
+  </a>
+</div>
