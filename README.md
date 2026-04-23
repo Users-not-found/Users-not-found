@@ -1,5 +1,5 @@
-<div align="center">
+<div align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=CS+Student+%26+Developer;Building+Local-First+Software;Exploring+AI+%26+Cybersecurity;Creator+of+Nova+API+%26+SecureScope" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1500&color=00FF00&width=850&lines=handle+%E2%86%92+AJ-016;name+%E2%86%92+Alwin;studying+%E2%86%92+BTech+CSE+(currently+surviving);background+%E2%86%92+Diploma+in+Multimedia+%26+Animation;building+%E2%86%92+web+apps,+tools,+and+things+that+(sometimes)+work;vibe+%E2%86%92+beginner+who+googles+everything+but+ships+anyway" alt="Typing SVG" />
   </a>
 </div>
