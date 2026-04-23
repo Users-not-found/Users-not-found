@@ -1,7 +1,6 @@
 <!-- CYBER HEADER -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AJ-016/AJ-016/main/assets/banner.png" />
-</div>
+<img src="https://raw.githubusercontent.com/AJ-016/AJ-016/main/banner.png" /></div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=700&color=00F5A0&center=true&vCenter=true&width=800&height=60&lines=Hey%2C+I'm+Alwin!+(AJ-016)+%F0%9F%91%8B;BTech+CS+student+running+on+10%25+battery;Traded+multimedia+design+for+endless+terminal+logs;Building+local-first+apps+that+don't+spy+on+you;Diving+into+AI+and+whatever+looks+cool+today;Professional+over-thinker%2C+amateur+bug-fixer" />
