@@ -1,4 +1,15 @@
-<div align="center"></div>> whoamiBash┌──(alwin㉿AJ-016)-[~]
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=250&color=4FC3F7&center=true&vCenter=true&width=600&height=75&lines=Hey%2C+I'm+Alwin!+%F0%9F%91%8B;BTech+CS+student+running+on+10%25+battery;Building+local-first+apps+that+don't+spy+on+you;Diving+into+AI+%26+Cybersecurity;Beginner+who+googles+everything+but+ships+anyway)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## `> whoami`
+
+```bash
+┌──(alwin㉿AJ-016)-[~]
 └─$ cat about.me
 
   handle     →  AJ-016
@@ -7,6 +18,3 @@
   background →  Diploma in Multimedia & Animation
   focus      →  Local-first software, AI, and Security
   vibe       →  beginner who googles everything but ships anyway
-> ls ./projectsProjectDescriptionStack💬yo-chatReal-time messaging appJS HTML CSS🎨sticker-studio-proBrowser-based sticker designJS HTML CSS Python🤖my-local-automatorOffline local task automationJS Python CSS HTML📬Nova APIProfessional API testing clientJS CSS HTML📝notes_apkClean notes with local storageJS CSS HTML✅to-do-appTask manager that actually worksJS CSS HTML> neofetch --skillsLanguagesTools> git stat<div align="center"><img height="170em" src="https://github-readme-stats.vercel.app/api?username=AJ-016&show_icons=true&bg_color=0d1117&title_color=4FC3F7&icon_color=4FC3F7&text_color=c9d1d9&border_color=30363d&hide_border=false&count_private=true" /><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJ-016&layout=compact&bg_color=0d1117&title_color=4FC3F7&text_color=c9d1d9&border_color=30363d" /></div><div align="center"></div><div align="center">PlaintextThe gap between what I know and what I want to build 
-is where all the fun happens.
-</div>
