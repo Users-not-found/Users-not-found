@@ -1,10 +1,6 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
 <!-- CYBER HEADER -->
 <div align="center">
-  <img src="https://i.imgur.com/Zb6rG5H.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/AJ-016/AJ-016/main/assets/banner.png" />
 </div>
 
 <div align="center">
@@ -42,6 +38,17 @@
 
 ---
 
+### 🧠 currently.exe
+
+```bash
+> learning     : AI + security
+> building     : local AI assistant
+> exploring    : self-hosted systems
+> mood         : what-am-i-doing 🤨
+```
+
+---
+
 ### 🛠️ Tech Stack
 
 <div align="center">
@@ -65,24 +72,13 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AJ-016&show_icons=true&bg_color=0d1117&title_color=00F5A0&icon_color=7F00FF&text_color=c9d1d9&border_color=30363d&hide_border=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJ-016&layout=compact&bg_color=0d1117&title_color=00F5A0&text_color=c9d1d9&border_color=30363d&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AJ-016&show_icons=true&bg_color=0d1117&title_color=00F5A0&icon_color=7F00FF&text_color=c9d1d9&hide_border=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJ-016&layout=compact&bg_color=0d1117&title_color=00F5A0&text_color=c9d1d9&hide_border=true" />
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=AJ-016&theme=dark&background=0D1117&border=0D1117&stroke=00F5A0&ring=7F00FF&fire=7F00FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F5A0&sideLabels=00F5A0&dates=8b949e" />
 </div>
-
----
-
-### 🧠 currently.exe
-
-```bash
-> learning     : AI + security
-> building     : local AI assistant
-> exploring    : self-hosted systems
-> mood         : what-am-i-doing 🤨
-```
 
 ---
 
@@ -113,8 +109,8 @@
 ### 🛰️ presence.log
 
 ```bash
-discord_user_1 = U_Know_Who
-discord_user_2 = dark0gamer
+discord_display_name = U_Know_Who
+discord_username     = dark0gamer
 
 status = online (probably debugging something unnecessary)
 ```
@@ -123,6 +119,4 @@ status = online (probably debugging something unnecessary)
 
 <div align="center">
   <i>"Code. Break. Fix. Repeat — until it feels like magic."</i>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=AJ-016&color=00F5A0&style=flat-square&label=PROFILE+VIEWS" />
 </div>
