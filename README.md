@@ -5,8 +5,6 @@
 </p>
 
 ---
-
-```bash
 > whoami
 Alwin K J
 
