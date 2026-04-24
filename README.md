@@ -55,7 +55,7 @@
 ---
 
 ### 🚀 Projects
-
+<div align="center">
 | | Project | Stack | Description |
 |--|---------|-------|---------|
 | 💬 | **[yo-chat](https://github.com/AJ-016/yo-chat)** | `JS` `HTML` `CSS` | real-time chat app |
@@ -64,7 +64,7 @@
 | 📬 | **[Postman_clone](https://github.com/AJ-016/Postman_clone)** | `JS` `CSS` `HTML` | HTTP client — test APIs without the app |
 | 📝 | **[notes_apk](https://github.com/AJ-016/notes_apk)** | `JS` `CSS` `HTML` | clean notes with local storage |
 | ✅ | **[to-do-app](https://github.com/AJ-016/to-do-app)** | `JS` `CSS` `HTML` | task manager that actually works |
-
+</div>div>
 ---
 
 ### 📊 GitHub Stats
