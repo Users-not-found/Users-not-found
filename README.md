@@ -57,7 +57,7 @@
 ### 🚀 Projects
 
 | | Project | Description | Stack |
-|:---:|:---|:---|:---|
+|:---:|:-----|:-----|:-----|
 | 🎨 | **[Sticker Studio Pro🔥](https://github.com/AJ-016/sticker-studio-pro)** | Offline desktop app for creating transparent stickers with AI background removal and pro canvas tools. | `JS` `HTML` `CSS` `Python` |
 | 💬 | **[yo-chat](https://github.com/AJ-016/yo-chat)** | Real-time chat app with messaging, read receipts, and admin features. | `JS` |
 | 📝 | **[notes_apk](https://github.com/AJ-016/notes_apk)** | Lightweight note-taking app focused on speed and simplicity. | `JS` `HTML` `CSS` |
