@@ -56,7 +56,7 @@
 
 ### 🚀 Projects
 
-| | Project | Stack | |
+| | Project | Stack | Description |
 |--|---------|-------|---------|
 | 💬 | **[yo-chat](https://github.com/AJ-016/yo-chat)** | `JS` `HTML` `CSS` | real-time chat app |
 | 🎨 | **[sticker-studio-pro](https://github.com/AJ-016/sticker-studio-pro)** | `JS` `HTML` `CSS` `Python` | design & customize stickers in browser |
