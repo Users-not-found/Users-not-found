@@ -55,27 +55,31 @@
 ---
 
 ### 🚀 Projects
+
 <div align="center">
+
 | | Project | Stack | Description |
-|--|---------|-------|---------|
-| 💬 | **[yo-chat](https://github.com/AJ-016/yo-chat)** | `JS` `HTML` `CSS` | real-time chat app |
-| 🎨 | **[sticker-studio-pro](https://github.com/AJ-016/sticker-studio-pro)** | `JS` `HTML` `CSS` `Python` | design & customize stickers in browser |
-| 🤖 | **[my-local-automator](https://github.com/AJ-016/my-local-automator)** | `JS` `Python` `CSS` `HTML` | automate local tasks with scripts | 
-| 📬 | **[Postman_clone](https://github.com/AJ-016/Postman_clone)** | `JS` `CSS` `HTML` | HTTP client — test APIs without the app |
-| 📝 | **[notes_apk](https://github.com/AJ-016/notes_apk)** | `JS` `CSS` `HTML` | clean notes with local storage |
-| ✅ | **[to-do-app](https://github.com/AJ-016/to-do-app)** | `JS` `CSS` `HTML` | task manager that actually works |
-</div>div>
+|:--:|:--------|:------|:------------|
+| 💬 | **[yo-chat](https://github.com/AJ-016/yo-chat)** | `JS` `HTML` `CSS` | Real-time chat app with a clean minimal UI |
+| 🎨 | **[sticker-studio-pro](https://github.com/AJ-016/sticker-studio-pro)** | `JS` `HTML` `CSS` `Python` | Browser-based sticker designer with custom tools |
+| 🤖 | **[my-local-automator](https://github.com/AJ-016/my-local-automator)** | `JS` `Python` `HTML` `CSS` | Local task automation — no cloud, no tracking |
+| 📬 | **[Postman_clone](https://github.com/AJ-016/Postman_clone)** | `JS` `HTML` `CSS` | Lightweight HTTP client to test APIs in-browser |
+| 📝 | **[notes_apk](https://github.com/AJ-016/notes_apk)** | `JS` `HTML` `CSS` | Distraction-free notes saved to local storage |
+| ✅ | **[to-do-app](https://github.com/AJ-016/to-do-app)** | `JS` `HTML` `CSS` | Minimal task manager that actually stays out of your way |
+
+</div>
+
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AJ-016&show_icons=true&bg_color=0d1117&title_color=2F81F7&icon_color=A855F7&text_color=c9d1d9&hide_border=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AJ-016&show_icons=true&bg_color=0d1117&title_color=2F81F7&icon_color=58A6FF&text_color=c9d1d9&hide_border=true&count_private=true" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJ-016&layout=compact&bg_color=0d1117&title_color=2F81F7&text_color=c9d1d9&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AJ-016&theme=dark&background=0D1117&border=0D1117&stroke=2F81F7&ring=A855F7&fire=A855F7&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2F81F7&sideLabels=2F81F7&dates=8b949e" />
+  <img src="https://streak-stats.demolab.com?user=AJ-016&theme=dark&background=0D1117&border=0D1117&stroke=58A6FF&ring=2F81F7&fire=2F81F7&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8b949e" />
 </div>
 
 ---
@@ -89,15 +93,15 @@
 </a>
 
 <a href="mailto:alwinjaison8023@gmail.com">
-<img src="https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-58A6FF?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/AJ-016">
-<img src="https://img.shields.io/badge/GitHub-22D3EE?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub-2F81F7?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/_alwin_k_j/">
-<img src="https://img.shields.io/badge/Instagram-A855F7?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-58A6FF?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
