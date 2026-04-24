@@ -8,7 +8,7 @@
 
 ### 👾 `> whoami`
 
-```bash
+```text
 ┌──(aj-016㉿404-brain-not-found)-[~]
 └─$ ./whoami.sh
 
@@ -37,7 +37,7 @@
 
 ### 🧠 currently.exe
 
-```bash
+```text
 > learning     : AI + security
 > building     : local AI assistant
 > exploring    : self-hosted systems
@@ -110,12 +110,24 @@
 
 ### 🛰️ presence.log
 
-```bash
+```text
 discord_display_name = U_Know_Who
 discord_username     = dark0gamer
 
 status = online (probably debugging something unnecessary)
 ```
+
+---
+
+### 📡 stats.live
+
+<div align="center">
+
+![Followers](https://img.shields.io/github/followers/AJ-016?label=Followers&style=for-the-badge&color=2F81F7&labelColor=0d1117&logo=github&logoColor=white)
+![Following](https://img.shields.io/github/following/AJ-016?label=Following&style=for-the-badge&color=58A6FF&labelColor=0d1117&logo=github&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=AJ-016&style=for-the-badge&color=2F81F7&label=PROFILE+VIEWS)
+
+</div>
 
 ---
 
